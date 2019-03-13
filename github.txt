@@ -1,0 +1,8 @@
+*** To Push to a non-existing Repository ***
+-Create repository
+-git init
+-git remote add origin <copied repo>
+-git add .
+-git commit -m "<message>"
+-git push origin master
+-Username and password
